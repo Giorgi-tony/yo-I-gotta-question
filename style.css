@@ -1,0 +1,13 @@
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+	font-size: 30px;
+	text-decoration: none;
+	margin: 20px;
+}
+span{
+	font-size: 70px;
+	margin-left: 420px;
+}
